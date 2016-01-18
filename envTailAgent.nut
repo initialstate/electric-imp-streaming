@@ -12,7 +12,7 @@ lastReading.humid <- 0;
 
 // Initialize the Initial State streamer with Access Key (required),
 // Bucket Key (optional), and Bucket Name (optional)
-is <- InitialState("qC6dQ25yOCP1j2AnIuH9JijTaLnNF5fD","imptail",":smiling_imp: Electric Imp + Env Tail");
+is <- InitialState("Your_Access_Key","imptail",":smiling_imp: Electric Imp + Env Tail");
 
 // Add a function to post data from the device to your stream
 
