@@ -1,4 +1,5 @@
 // Device Code
+// Adapted from Electric Imp's "Weather Station" example: https://electricimp.com/docs/tails/weatherstation/
 #require "Si702x.class.nut:1.0.0"
 #require "APDS9007.class.nut:1.0.0"
 #require "LPS25H.class.nut:1.0.0"
