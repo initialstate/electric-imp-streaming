@@ -1,5 +1,5 @@
 // Agent Code
-
+// Adapted from Electric Imp's "Weather Station" example: https://electricimp.com/docs/tails/weatherstation/
 #require "InitialState.class.nut:1.0.0"
 
 // Establish a local variable to hold environmental data
