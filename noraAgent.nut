@@ -1,3 +1,6 @@
+// Agent Code
+// Adapted from Electric Imp's Nora example: https://electricimp.com/docs/hardware/resources/reference-designs/nora/
+
 #require "Firebase.class.nut:1.0.0"
 #require "InitialState.class.nut:1.0.0"
 
