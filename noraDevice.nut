@@ -1,3 +1,6 @@
+// Device Code
+// Adapted from Electric Imp's Nora example: https://electricimp.com/docs/hardware/resources/reference-designs/nora/
+
 // Temperature/Humidity 
 #require "Si702x.class.nut:1.0.0"
 // Light/Proximity 
